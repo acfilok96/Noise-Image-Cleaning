@@ -15,6 +15,6 @@ Noise Image:-
 ![Alt Generated Abstract Image](https://github.com/acfilok96/Clean-Noise-Image/blob/main/Image%20Data/Train%20Data/Train%20Noise%20Data/101.png)
 
 
-Clean Image:-
+Predicted Clean Image:-
 
 ![Alt Generated Abstract Image](https://github.com/acfilok96/Clean-Noise-Image/blob/main/Image%20Data/Train%20Data/Train%20Cleaned%20Data/101.png)
